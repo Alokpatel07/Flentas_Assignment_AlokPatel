@@ -29,3 +29,15 @@ Create a basic AWS network architecture using Terraform that includes:
 
 ### VPC Screenshot AWS
 ![VPC](https://github.com/Alokpatel07/Flents_Assignment_AlokPatel/blob/main/Task-01%20-%20AWS%20VPC%20Setup/Screenshots/VPC.png)
+
+### Subnets Screenshot AWS
+![Subnets](https://github.com/Alokpatel07/Flents_Assignment_AlokPatel/blob/main/Task-01%20-%20AWS%20VPC%20Setup/Screenshots/Subnets.png)
+
+### Internet Gateway Screenshot AWS
+![Internet Gateway](https://github.com/Alokpatel07/Flents_Assignment_AlokPatel/blob/main/Task-01%20-%20AWS%20VPC%20Setup/Screenshots/Internet%20_Gateway.png)
+
+### Route Tables Screenshot AWS
+![Route Table](https://github.com/Alokpatel07/Flents_Assignment_AlokPatel/blob/main/Task-01%20-%20AWS%20VPC%20Setup/Screenshots/Route_Table.png)
+
+### Nat Gateway Screenshot AWS
+![NAT Gateway](https://github.com/Alokpatel07/Flents_Assignment_AlokPatel/blob/main/Task-01%20-%20AWS%20VPC%20Setup/Screenshots/NAT_Gateway.png)
