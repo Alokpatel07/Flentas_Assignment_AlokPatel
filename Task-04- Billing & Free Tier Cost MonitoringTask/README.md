@@ -86,13 +86,15 @@ AWS will email you when your Free Tier usage is approaching or has exceeded limi
    * Console path: **CloudWatch → Alarms → (your alarm)**
    * Screenshot shows: the alarm **name**, **threshold (1.2 USD)**, and the **state** (OK / ALARM / INSUFFICIENT DATA).
 
+   ![Biiling Preferences](https://github.com/Alokpatel07/Flentas_Assignment_AlokPatel/blob/main/Task-04-%20Billing%20%26%20Free%20Tier%20Cost%20MonitoringTask/SS/Billing_Preferences.png)
 
 2. **Free Tier Usage Alerts page**
 
+
    * Console path: **Billing Dashboard → Free Tier → Preferences**
    * Make sure the screenshot shows that **Free Tier usage alerts are enabled** and the **notification email** (if visible).
-
-
+   
+   ![Billing Alarm](https://github.com/Alokpatel07/Flentas_Assignment_AlokPatel/blob/main/Task-04-%20Billing%20%26%20Free%20Tier%20Cost%20MonitoringTask/SS/BillingAlarm.png)
 
 
 
