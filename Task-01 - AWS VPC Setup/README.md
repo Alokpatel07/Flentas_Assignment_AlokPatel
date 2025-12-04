@@ -13,12 +13,13 @@ Create a basic AWS network architecture using Terraform that includes:
 
 ###  VPC Design
 
-| Component        | Name                 | CIDR              | Availability Zone
-| VPC              | Alok_Patel_VPC       | 192.168.0.0/16 
-| Public Subnet 1  | dev01_public_subnet  | 192.168.0.0/20    | us-east-1a
-| Public Subnet 2  | dev02_public_subnet  | 192.168.16.0/20   | us-east-1b
-| Private Subnet 1 | dev01_private_subnet | 192.168.32.0/20   | us-east-1c
-| Private Subnet 2 | dev02_private_subnet | 192.168.48.0/20   | us-east-1d
+| Component        | Name                    | CIDR              | Availability Zone |
+|------------------|-------------------------|-------------------|-------------------|
+| VPC              | Alok_Patel_VPC          | 192.168.0.0/16 
+| Public Subnet 1  | AlokPatelPublicSubnet1  | 192.168.0.0/20    | us-east-1a
+| Public Subnet 2  | AlokPatelPublicSubnet2  | 192.168.16.0/20   | us-east-1b
+| Private Subnet 1 | AlokPatelPrivateSubnet1 | 192.168.32.0/20   | us-east-1c
+| Private Subnet 2 | AlokPatelPrivateSubnet2 | 192.168.48.0/20   | us-east-1d
 
 ---
 
