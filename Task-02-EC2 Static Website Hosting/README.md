@@ -20,3 +20,15 @@ The following resources were used in this setup:
 
 
 ---
+
+### EC2 Screenshot AWS
+![EC2](https://github.com/Alokpatel07/Flentas_Assignment_AlokPatel/blob/main/Task-02-EC2%20Static%20Website%20Hosting/SS/EC2_Instance.png)
+
+### Security Group created with port 80 and 22 opened
+![Security Group](https://github.com/Alokpatel07/Flentas_Assignment_AlokPatel/blob/main/Task-02-EC2%20Static%20Website%20Hosting/SS/SecurityGroup.png)
+
+### Installing NGINX and Configuring it
+![NGINX COnfiguration](https://github.com/Alokpatel07/Flentas_Assignment_AlokPatel/blob/main/Task-02-EC2%20Static%20Website%20Hosting/SS/Install-and-Configure-NGINX.png)
+
+### Resume Hosted as a Static Website in NGINX
+![Resume Hosted](https://github.com/Alokpatel07/Flentas_Assignment_AlokPatel/blob/main/Task-02-EC2%20Static%20Website%20Hosting/SS/ResumeHostedinNGINX.png)
